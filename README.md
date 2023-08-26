@@ -1,8 +1,8 @@
 <h2>🗄️Redux Toolkit examples</h2>
 
-<p><a href="">Link project</a></p>
+<p><a href="https://react-toolkit-examples.vercel.app/">Link project</a></p>
 
-<img src=""/>
+<img src="https://github.com/BmAlkes/React-Toolkit-examples/blob/main/public/Screenshot_5.png?raw=true"/>
 
 <h2>📝 Description</h2>
 <p>Project with the aim of studying and improving the use of the redux toolkit</p>
@@ -10,7 +10,7 @@
 <hr/>
 
 <h2>📚Functionalities</h2>
-<p></p>
+<p> Creation and list of posting... </p>
   <hr/>
 <h3>🔧
 Technologies used
